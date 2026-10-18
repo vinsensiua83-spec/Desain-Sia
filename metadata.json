@@ -1,0 +1,6 @@
+{
+  "name": "Portal Mahasiswa USD - Sistem Informasi Akademik",
+  "description": "Aplikasi portal akademik mahasiswa terintegrasi dengan sistem login autentikasi, database lokal persisten, jadwal kuliah, nilai semester, kartu keuangan, KTM digital, poin keaktifan, dan biodata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
